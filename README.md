@@ -38,8 +38,15 @@
 
 ### Social Media
 
+#### YouTube
 ![YouTube](http://www.fastcodesign.com/multisite_files/codesign/imagecache/slideshow-large/slides/inline-3-olympic-infographics-final-01-01-2.jpg)
+
+
+#### Facebook
 ![Facebook](http://www.fastcodesign.com/multisite_files/codesign/imagecache/slideshow-large/slides/inline-4-olympic-infographics-final-01-01-2.jpg)
+
+#### Twitter
+
 ![Twitter](http://www.fastcodesign.com/multisite_files/codesign/imagecache/slideshow-large/slides/inline-5-olympic-infographics-final-01-01-2.jpg)
 
 ### Infographic
