@@ -151,7 +151,7 @@ http://christiangross.info/olympics/
 
 ### Conclusion of MMXII
 
-- Medal Counts + Social Media
+- Medal Counts + Social Media + Geo
 - JavaScript (d3js the winner)
 - NOT Open Data
 
@@ -163,7 +163,6 @@ http://christiangross.info/olympics/
 
 The future is already here – it's just not evenly distributed.
 —William Gibson, quoted in The Economist, December 4, 2003
-
 
 ### What if ?
 
@@ -177,6 +176,14 @@ The future is already here – it's just not evenly distributed.
 <iframe src="http://makoto.github.com/possessed" width="1000px" height="1000px"></iframe>
 
 - [Possessed](http://makoto.github.com/possessed)
+
+### BBC iPlayer
+
+- ![Triathlon](./triathlon.png)
+
+### BBC (Data Driven) iPlayer
+
+- ![Triathlon Visualised](./triathlon_ts.png)
 
 ## Thanks && References
 
