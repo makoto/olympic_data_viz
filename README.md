@@ -32,8 +32,8 @@
 
 - iPhone = 2007 June
 - Facebook Platform = 2007 May
-- The AppStore = 2008 July
 - BBC iPlayer = 2007 December
+- The AppStore = 2008 July
 - Android = 2008 October
 
 ### Social Media
@@ -57,9 +57,6 @@ From[Google Trend](http://www.google.com/trends/?q=infographic)
 
 ### Data Visualisation
 
-- [Many Eyes medal counts](http://www-958.ibm.com/software/data/cognos/manyeyes/visualizations/olympics-2008-medals-by-event-top--3)
-
-
 <embed width="960" height="450" src="http://graphics8.nytimes.com/packages/flash/olympics/20080804_MEDALCOUNT_MAP/flash/medals_cartogram4.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="window" devicefont="false" bgcolor="#ffffff" name="medals_cartogram4" menu="true" allowfullscreen="false" allowscriptaccess="always" flashvars="dataPath=http://graphics8.nytimes.com/packages/html/olympics/2008/medals_map/&amp;yearDataPath=http://graphics8.nytimes.com/packages/html/olympics/2008/medals_map/" salign="" type="application/x-shockwave-flash">
 
 - [New York Times medal counts](http://www.nytimes.com/interactive/2008/08/04/sports/olympics/20080804_MEDALCOUNT_MAP.html)
@@ -72,13 +69,15 @@ From[Google Trend](http://www.google.com/trends/?q=infographic)
 
 <iframe src="http://www-958.ibm.com/software/data/cognos/manyeyes/visualizations/olympics-2008-medals-by-event-top--3" width=1000px height=600px></iframe>
 
+- [Many Eyes medal counts](http://www-958.ibm.com/software/data/cognos/manyeyes/visualizations/olympics-2008-medals-by-event-top--3)
+
 
 ### Visualisation tools
 
 - Many Eyes (Java)
 - Flash
 
-### Technology (JS)
+### Visualisation tools (JS)
 
 - Processing.js = 2008 May
 - Raphael.js    = 2008 Sep
@@ -86,8 +85,8 @@ From[Google Trend](http://www.google.com/trends/?q=infographic)
 
 ### Conclusion of MMVIII
 
-- Medal Counts
-- Flash/Java
+- Data viz = Medal Counts
+- Tools = Flash/Java
 
 ## MMXII
 
