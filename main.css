@@ -18,12 +18,24 @@ ol {
   padding-left:300px;
 /*  padding: 100px; margin: 100px; */
 }
+ol li{
+  width:200px;
+}
 
 .small{
   font-size: 50%;
 }
 .not-there-yet{
   text-decoration: line-through;
+}
+
+.yellow{
+  color:yellow;
+}
+
+.index{
+  position:absolute;
+  bottom:0;
 }
 
 ul{
