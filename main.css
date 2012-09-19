@@ -1,0 +1,59 @@
+body {
+  margin: auto;
+  width: 80%;
+  background-image: url('https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcRpq4eBeIZNATtGhW_9tbUYAli4ugmAXx0biJDehZuzl4HLGIhZ');
+}
+
+h1, h2, h3, h4{
+  padding-bottom:5px;
+  margin-bottom:5px;
+}
+
+p{
+  margin:5px;
+}
+
+ol { 
+  align: center;
+  padding-left:300px;
+/*  padding: 100px; margin: 100px; */
+}
+ol li{
+  width:200px;
+}
+
+.small{
+  font-size: 50%;
+}
+.not-there-yet{
+  text-decoration: line-through;
+}
+
+.yellow{
+  color:yellow;
+}
+
+.index{
+  position:absolute;
+  bottom:0;
+}
+
+ul{
+  list-style-type: none;
+}
+
+*{
+    text-align: center;
+}
+
+section{
+/*  padding:50px;*/
+}
+
+.stack {
+  background-image: none;
+/*  background-image: url('http://mmxiihack.org/bg/6764486061_c7c9b598a1_o.jpg');*/
+  height: 80%;
+  padding: 80px 80px;
+  width: 80%;
+}
