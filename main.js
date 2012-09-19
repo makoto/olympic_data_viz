@@ -8,8 +8,4 @@ document.addEventListener("DOMContentLoaded", function () {
         return i + '/' + total
       };
     })
-    
-  // var example = Popcorn.youtube(
-  //           '#mmxii_earth_video',
-  //           'http://www.youtube.com/watch?v=1v7rJWYXKuY' );
 }, false);
